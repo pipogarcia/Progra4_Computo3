@@ -1,0 +1,6 @@
+Marca, Modelo, Año, Color
+Toyota,RAV4,2020,Negro
+Nissan,Versa,2015,Gris
+Honda,Civic,2018,Azul
+Mitsubishi,Lancer,2012,Blanco
+Toyota,Corolla,2010,Rojo
